@@ -6,42 +6,42 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en">
-        <seg>Earth Movement</seg>
+        <seg>Earth</seg>
       </tuv>
-      <tuv lang="it-QA">
-        <seg>Earth Movement</seg>
+      <tuv lang="it-QA" changeid="souto" changedate="20230824T165114Z">
+        <seg>la Terra</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>Sun</seg>
+        <seg>Earth Movement</seg>
       </tuv>
-      <tuv lang="it-QA">
-        <seg>Sun</seg>
+      <tuv lang="it-QA" changeid="souto" changedate="20230824T165106Z">
+        <seg>Movimento Terra</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Earth’s axis</seg>
       </tuv>
-      <tuv lang="it-QA">
-        <seg>Earth’s axis</seg>
+      <tuv lang="it-QA" changeid="souto" changedate="20230824T165111Z">
+        <seg>Asse terrestre</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>Earth</seg>
+        <seg>Sun</seg>
       </tuv>
-      <tuv lang="it-QA">
-        <seg>Earth</seg>
+      <tuv lang="it-QA" changeid="souto" changedate="20230824T165116Z">
+        <seg>Sole</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>This diagram represents Earth as it rotates on its axis and orbits around the Sun (not to scale).</seg>
       </tuv>
-      <tuv lang="it-QA">
-        <seg>This diagram represents Earth as it rotates on its axis and orbits around the Sun (not to scale).</seg>
+      <tuv lang="it-QA" changeid="souto" changedate="20230824T165121Z">
+        <seg>Questo diagramma rappresenta la Terra mentre ruota sul suo asse e orbita attorno al Sole (non in scala).</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
